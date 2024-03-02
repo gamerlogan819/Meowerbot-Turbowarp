@@ -1,1 +1,1 @@
-NOTICE! Past April 1st 2024, if release 4 isn't out by then, all releases of this project will not work. Release 4 will be a major update that changes a huge part of this project to be able to work past the shutdown of CloudLink.
+NOTICE! Release 4 and up will be the only working versions past April 1st. Please move to the latest versions to ensure your codes work right. Previous releases will be kept in case I lose the files somehow.
