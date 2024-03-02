@@ -1,1 +1,1 @@
-All you gotta do is download the .sb3 file and import it into turbowarp. There is a user guide there.
+NOTICE! Past April 1st 2024, if release 4 isn't out by then, all releases of this project will not work. Release 4 will be a major update that changes a huge part of this project to be able to work past the shutdown of CloudLink.
